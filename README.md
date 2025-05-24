@@ -95,7 +95,7 @@ Follow these steps to replicate the project:
     *   Select **S3**.
     *   **Bucket:** Choose your S3 bucket.
     *   **Event type:** `All object create events`.
-    *   Acknowledge the recursive invocation warning if applicable.
+    *   Mark the recursive invocation warning
     *   Click **Add**
       
       ![image](https://github.com/user-attachments/assets/3124888f-6e4e-4f7a-97a9-7544ede715cd)
